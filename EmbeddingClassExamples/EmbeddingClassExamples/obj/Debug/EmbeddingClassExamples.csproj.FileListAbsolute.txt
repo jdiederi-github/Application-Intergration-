@@ -1,0 +1,6 @@
+c:\users\jeremy diederich\documents\visual studio 2015\Projects\EmbeddingClassExamples\EmbeddingClassExamples\bin\Debug\EmbeddingClassExamples.exe.config
+c:\users\jeremy diederich\documents\visual studio 2015\Projects\EmbeddingClassExamples\EmbeddingClassExamples\bin\Debug\EmbeddingClassExamples.exe
+c:\users\jeremy diederich\documents\visual studio 2015\Projects\EmbeddingClassExamples\EmbeddingClassExamples\bin\Debug\EmbeddingClassExamples.pdb
+c:\users\jeremy diederich\documents\visual studio 2015\Projects\EmbeddingClassExamples\EmbeddingClassExamples\obj\Debug\EmbeddingClassExamples.csprojResolveAssemblyReference.cache
+c:\users\jeremy diederich\documents\visual studio 2015\Projects\EmbeddingClassExamples\EmbeddingClassExamples\obj\Debug\EmbeddingClassExamples.exe
+c:\users\jeremy diederich\documents\visual studio 2015\Projects\EmbeddingClassExamples\EmbeddingClassExamples\obj\Debug\EmbeddingClassExamples.pdb
